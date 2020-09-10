@@ -1,9 +1,9 @@
 class Lst < Formula
   desc "Save snippets of information quickly through the command-line"
   homepage "https://liszt.readthedocs.io"
-  url "https://github.com/scamacho23/homebrew-liszt/archive/v1.1.7.tar.gz"
+  url "https://github.com/scamacho23/liszt/archive/v1.1.8.tar.gz"
   license "GNU GPL-3.0"
-  version "1.1.7"
+  version "1.1.8"
 
   depends_on "cmake" => :build
 
